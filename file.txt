@@ -1,3 +1,5 @@
 Zdraste, Bekzhan Aga. Zdes' text napisan s branch "siko"
 Zdraste, Bekzhan Aga. Zdes' text napisan s branch "master"
 B.Serikzhan
+Zdraste, Bekzhan Aga. Zdes' branch "siko"
+siko
